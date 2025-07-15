@@ -1,0 +1,17 @@
+{
+  "system": {
+    "version": "1.2.0",
+    "first_run": false,
+    "language": "ar",
+    "auto_start": true,
+    "permissions": {
+      "microphone": true,
+      "notifications": true,
+      "auto_updates": false
+    },
+    "performance": {
+      "max_threads": 4,
+      "gpu_acceleration": true
+    }
+  }
+}

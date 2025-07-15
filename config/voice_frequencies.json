@@ -1,0 +1,10 @@
+{
+  "voice_analysis": {
+    "average_pitch": 210,
+    "stability_score": 0.92,
+    "unique_characteristics": {
+      "formants": [650, 1400, 2900],
+      "harmonics_ratio": 1.8
+    }
+  }
+}

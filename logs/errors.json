@@ -1,0 +1,5 @@
+{
+  "timestamp": "2025-07-03T05:20:14.142245",
+  "error": "فشل في حفظ الأمر للتعلم: فشل في قراءة الملف data/pending_learning.json: Expecting value: line 1 column 1 (char 0)",
+  "session_id": "20250703052014"
+}

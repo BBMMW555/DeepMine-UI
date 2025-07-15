@@ -1,0 +1,18 @@
+{
+    "first_run": false,
+    "system": {
+        "version": "1.0.0"
+    },
+    "paths": {
+        "models": "models",
+        "logs": "logs"
+    },
+    "config_files": {
+        "audio": "config/audio_settings.json",
+        "system": "config/system_config.json",
+        "ui": "config/ui_settings.json",
+        "user": "config/user_preferences.json",
+        "voice_frequencies": "config/voice_frequencies.json",
+        "wake_word": "config/wake_word_settings.json"
+    }
+}

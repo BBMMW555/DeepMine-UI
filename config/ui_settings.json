@@ -1,0 +1,55 @@
+{
+    "ui": {
+        "version": 2.1,
+        "theme": {
+            "primary_color": "#4e9de6",
+            "dark_mode": true,
+            "font": {
+                "family": "Arial",
+                "size": 14,
+                "bold": false
+            }
+        },
+        "behavior": {
+            "inactivity_timeout": 5,
+            "animation_speed": "medium",
+            "shrink_settings": {
+                "enabled": true,
+                "duration": 0.5,
+                "hide_after": true
+            }
+        },
+        "elements": {
+            "text_box": {
+                "visible": true,
+                "editable": true
+            },
+            "mic_button": {
+                "visible": true,
+                "position": [
+                    1200,
+                    300
+                ]
+            }
+        },
+        "text": {
+            "editable": true,
+            "placeholder": "اكتب هنا...",
+            "font_family": "Arial",
+            "font_size": 12,
+            "text_color": "#FFFFFF",
+            "display_mode": "فوري",
+            "display_speed": 50,
+            "fade_out_before_shrink": true
+        },
+        "audio_ui": {
+            "voice_gender": "أنثوي",
+            "voice_language": "العربية",
+            "voice_quality": "عالية",
+            "audio_output_device": "افتراضي",
+            "save_user_voice": false,
+            "user_voice_path": "/path/to/save",
+            "mic_interaction_mode": "اضغط للتحدث"
+        }
+    }
+}

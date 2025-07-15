@@ -1,0 +1,20 @@
+{
+  "version": 1.2,
+  "voice": {
+    "gender": "female",
+    "language": "ar",
+    "pitch": 210,
+    "stability": 0.92,
+    "formants": [650, 1400, 2900],
+    "harmonics_ratio": 1.8
+  },
+  "recording": {
+    "sample_rate": 44100,
+    "noise_reduction": true,
+    "frequency_ranges": {
+      "low": [85, 180],
+      "mid": [181, 255],
+      "high": [256, 400]
+    }
+  }
+}

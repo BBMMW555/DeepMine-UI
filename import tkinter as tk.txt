@@ -1,0 +1,37 @@
+import tkinter as tk
+from tkinter import scrolledtext
+
+def send_message():
+    message = input_box.get("1.0", tk.END).strip()
+    if message:
+        chat_box.configure(state='normal')
+        chat_box.insert(tk.END, f"أنت: {message}\n")
+        chat_box.configure(state='disabled')
+        input_box.delete("1.0", tk.END)
+        respond(message)
+
+def respond(message):
+    response = "هذا رد تلقائي"  # هنا يمكنك إضافة كود لمعالجة الرسائل والرد عليها
+    chat_box.configure(state='normal')
+    chat_box.insert(tk.END, f"ماين: {response}\n")
+    chat_box.configure(state='disabled')
+
+# إنشاء نافذة التطبيق
+window = tk.Tk()
+window.title("مساعد المحادثة")
+window.geometry("400x400")
+
+# إنشاء مربع النص لعرض المحادثة
+chat_box = scrolledtext.ScrolledText(window, wrap=tk.WORD, state='disabled', width=50, height=15)
+chat_box.pack(padx=10, pady=10)
+
+# إنشاء مربع الإدخال لكتابة الرسائل
+input_box = tk.Text(window, wrap=tk.WORD, height=3, width=50)
+input_box.pack(padx=10, pady=5)
+
+# زر لإرسال الرسالة
+send_button = tk.Button(window, text="إرسال", command=send_message)
+send_button.pack(pady=5)
+
+# بدء تشغيل واجهة المستخدم
+window.mainloop()

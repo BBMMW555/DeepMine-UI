@@ -1,0 +1,16 @@
+
+{
+  "name_ar": "مهندس بسام",
+  "name_en": "Bassam",
+  "birthdate": "1983-04-27",
+  "preferences": {
+    "interface": {
+      "favorite_color": "#4e9de6",
+      "font_size": 14
+    },
+    "interaction": {
+      "greeting_style": "ودود",
+      "notification_sound": "chime.wav"
+    }
+  }
+}

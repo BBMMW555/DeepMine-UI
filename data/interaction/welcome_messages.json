@@ -1,0 +1,28 @@
+{
+  "time_based": {
+    "morning": {
+      "ar": "صباح الخير {name_ar}، يومك عامر بالنجاح! ☀️",
+      "en": "Good morning {name_en}, may your day be productive! ☀️",
+      "sound": "morning_chime.mp3"
+    },
+    "afternoon": {
+      "ar": "مساء الخير {name_ar}، كيف حالك؟ 🌤️",
+      "en": "Good afternoon {name_en}, how are you? 🌤️"
+    },
+    "evening": {
+      "ar": "مساء النور {name_ar}، كيف كان يومك؟ 🌙",
+      "en": "Good evening {name_en}, how was your day? 🌙",
+      "sound": "evening_chime.mp3"
+    }
+  },
+  "event_based": {
+    "device_unlock": {
+      "ar": "أهلاً بعودتك {name_ar}!",
+      "en": "Welcome back {name_en}!"
+    },
+    "first_interaction": {
+      "ar": "تشرفنا بمعرفتك {name_ar}!",
+      "en": "Pleased to meet you {name_en}!"
+    }
+  }
+}

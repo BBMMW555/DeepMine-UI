@@ -1,0 +1,214 @@
+
+{
+  "مرحبا": {
+    "response_ar": "مرحبًا بك! كيف يمكنني مساعدتك اليوم؟",
+    "response_en": "Hello! How can I assist you today?"
+  },
+  "كيف حالك": {
+    "response_ar": "أنا بخير، شكرًا لسؤالك! كيف يمكنني مساعدتك؟",
+    "response_en": "I'm fine, thank you for asking! How can I assist you?"
+  },
+  "يا مساعد": {
+    "response_ar": "نعم، أنا أستمع إليك.",
+    "response_en": "Yes, I'm here and listening."
+  },
+  
+  "ما اسمك": {
+    "response_ar": "أنا ديب ماين، مساعدك الشخصي",
+    "response_en": "My name is DeepMine, your personal assistant",
+    "keywords": ["اسم", "تعريف", "هوية"],
+    "context_sensitive": false
+  },
+  "ما اسمك؟": {
+    "response_ar": "أنا ديب ماين، مساعدك الشخصي.",
+    "response_en": "My name is DeepMine, your personal assistant."
+  },
+  "كيف حالك؟": {
+    "response_ar": "بخير طالما أنت بخير.",
+    "response_en": "I'm doing well as long as you're doing well."
+  },
+  "كم الساعة": {
+    "response_type": "dynamic_time",
+    "response_ar": "",
+    "response_en": "",
+    "keywords": ["الوقت", "الساعة", "التوقيت"],
+    "context_sensitive": true
+  },
+  "كم الساعة؟": {
+    "response_type": "dynamic_time",
+    "response_ar": "الساعة الآن... (يتم توليدها تلقائياً)",
+    "response_en": "The time is... (to be generated dynamically)"
+  },
+  "ما هو تاريخ اليوم؟": {
+    "response_type": "dynamic_date",
+    "response_ar": "اليوم هو... (يتم توليدها تلقائياً)",
+    "response_en": "Today is... (to be generated dynamically)"
+  },
+  "أين أنا؟": {
+    "response_ar": "أنت في مكانك الحالي، هل تحتاج إلى مساعدة في تحديد موقعك؟",
+    "response_en": "You are in your current location, do you need help identifying it?"
+  },
+  "ما هو الطقس اليوم؟": {
+    "response_type": "dynamic_weather",
+    "response_ar": "الطقس اليوم... (يتم توليدها تلقائياً)",
+    "response_en": "The weather today is... (to be generated dynamically)"
+  },
+  "ساعدني في البحث عن معلومات": {
+    "response_ar": "بالطبع، ما الذي تريد البحث عنه؟",
+    "response_en": "Of course, what would you like to search for?"
+  },
+  "هل يمكنك ضبط تذكير؟": {
+    "response_ar": "بالطبع، ما الذي تريدني أن أذكرك به؟",
+    "response_en": "Of course, what would you like me to remind you about?"
+  },
+  "أريد معرفة الأخبار": {
+    "response_type": "dynamic_news",
+    "response_ar": "بالطبع، إليك آخر الأخبار... (يتم توليدها تلقائياً)",
+    "response_en": "Sure, here are the latest news... (to be generated dynamically)"
+  },
+  "كيف يمكنني مساعدتك؟": {
+    "response_ar": "أنا هنا لمساعدتك في أي شيء تحتاجه.",
+    "response_en": "I'm here to help you with anything you need."
+  },
+  "ما هي خطتي اليوم؟": {
+    "response_type": "dynamic_schedule",
+    "response_ar": "دعني أتحقق من جدولك اليوم... (يتم توليدها تلقائياً)",
+    "response_en": "Let me check your schedule for today... (to be generated dynamically)"
+  },
+  "معانا عمل": {
+    "response_ar": "ما هو الموضوع الذي ترغب في مناقشته؟ أنا جاهز.",
+    "response_en": "What topic would you like to discuss? I'm ready."
+  },
+  "افتح سجل للتسجيل؟": {
+    "response_ar": "بالطبع، سأفتح سجلًا للتسجيل الآن.",
+    "response_en": "Of course, I will open a log for registration now."
+  },
+  "هل يمكنك ترجمة هذا؟": {
+    "response_ar": "بالطبع، ما الذي تريد ترجمته؟",
+    "response_en": "Of course, what would you like me to translate?"
+  },
+  "أريد معرفة المزيد عنك": {
+    "response_ar": "أنا مساعدك الشخصي، هنا لمساعدتك في كل ما تحتاجه.",
+    "response_en": "I'm your personal assistant, here to help you with everything you need."
+  },
+  "كيف يمكنني تحسين إنتاجيتي؟": {
+    "response_ar": "يمكنني مساعدتك في تنظيم مهامك وتحديد أولوياتك.",
+    "response_en": "I can help you organize your tasks and set your priorities."
+  },
+  "هل يمكنك مساعدتي في تعلم لغة جديدة؟": {
+    "response_ar": "بالطبع، ما اللغة التي ترغب في تعلمها؟",
+    "response_en": "Of course, which language would you like to learn?"
+  },
+  "أحتاج إلى اقتراحات للكتب": {
+    "response_ar": "بالطبع، ما نوع الكتب التي تفضلها؟",
+    "response_en": "Sure, what type of books do you prefer?"
+  },
+  "كيف يمكنني تحسين مهاراتي في البرمجة؟": {
+    "response_ar": "يمكنني مساعدتك في العثور على موارد ودورات لتحسين مهاراتك.",
+    "response_en": "I can help you find resources and courses to improve your skills."
+  },
+  "ما هي أفضل الطرق للاسترخاء؟": {
+    "response_ar": "يمكنك الاسترخاء من خلال التأمل، القراءة، أو الاستماع إلى الموسيقى.",
+    "response_en": "You can relax through meditation, reading, or listening to music."
+  },
+  "هل يمكنك مساعدتي في التخطيط لرحلة؟": {
+    "response_ar": "بالطبع، أين ترغب في الذهاب ومتى؟",
+    "response_en": "Of course, where would you like to go and when?"
+  },
+  "أحتاج إلى نصائح لتحسين صحتي": {
+    "response_ar": "يمكنني مساعدتك في العثور على نصائح غذائية وتمارين رياضية.",
+    "response_en": "I can help you find nutritional tips and exercise routines."
+  },
+  "كيف يمكنني إدارة وقتي بشكل أفضل؟": {
+    "response_ar": "يمكنني مساعدتك في إنشاء جدول زمني وتنظيم مهامك.",
+    "response_en": "I can help you create a schedule and organize your tasks."
+  },
+  "هل يمكنك مساعدتي في العثور على وظيفة؟": {
+    "response_ar": "بالطبع، ما نوع الوظيفة التي تبحث عنها؟",
+    "response_en": "Of course, what type of job are you looking for?"
+  },
+  "أحتاج إلى مساعدة في كتابة سيرة ذاتية": {
+    "response_ar": "بالطبع، يمكنني مساعدتك في كتابة سيرة ذاتية احترافية.",
+    "response_en": "Sure, I can help you write a professional resume."
+  },
+  "كيف يمكنني تحسين مهاراتي الاجتماعية؟": {
+    "response_ar": "يمكنني مساعدتك في العثور على موارد لتحسين مهاراتك الاجتماعية.",
+    "response_en": "I can help you find resources to improve your social skills."
+  },
+  "هل يمكنك مساعدتي في تعلم مهارة جديدة؟": {
+    "response_ar": "بالطبع، ما المهارة التي ترغب في تعلمها؟",
+    "response_en": "Of course, what skill would you like to learn?"
+  },
+  "أحتاج إلى نصائح لتحسين مهارات القيادة": {
+    "response_ar": "يمكنني مساعدتك في العثور على نصائح ودورات لتحسين مهارات القيادة.",
+    "response_en": "I can help you find tips and courses to improve your leadership skills."
+  },
+  "كيف يمكنني تحسين مهاراتي في الكتابة؟": {
+    "response_ar": "يمكنني مساعدتك في العثور على موارد ودورات لتحسين مهارات الكتابة.",
+    "response_en": "I can help you find resources and courses to improve your writing skills."
+  },
+  "هل يمكنك مساعدتي في تعلم البرمجة؟": {
+    "response_ar": "بالطبع، ما لغة البرمجة التي ترغب في تعلمها؟",
+    "response_en": "Of course, which programming language would you like to learn?"
+  },
+  "أحتاج إلى نصائح لتحسين مهارات التفاوض": {
+    "response_ar": "يمكنني مساعدتك في العثور على نصائح ودورات لتحسين مهارات التفاوض.",
+    "response_en": "I can help you find tips and courses to improve your negotiation skills."
+  },
+  "الوقت": {
+    "response_type": "dynamic_time",
+    "response_ar": "",
+    "response_en": ""
+  },
+  "التوقيت": {
+    "response_type": "dynamic_time",
+    "response_ar": "",
+    "response_en": ""
+  },
+  "الساعة الآن": {
+    "response_type": "dynamic_time",
+    "response_ar": "الساعة الآن {time}",
+    "response_en": "The time is {time}"
+  },
+
+  "ما هو مشروعك": {
+    "response_ar": "أنا مشروع DeepMine، مساعد ذكي يتعلم من تفاعلاتك اليومية",
+    "response_en": "I'm the DeepMine project, an AI assistant that learns from your daily interactions"
+  },
+  "كيف أضيف أمر جديد": {
+    "response_ar": "قل لي 'تعلم هذا الأمر' بعد تنفيذ الإجراء يدويًا، وسأحفظه للمرة القادمة",
+    "response_en": "Say 'learn this command' after performing the action manually, and I'll remember it for next time"
+  },
+  "ما الذي يمكنك تعلمه": {
+    "response_ar": "يمكنني تعلم أي إجراء تقوم به على حاسوبك، من فتح التطبيقات إلى إنشاء التقارير المعقدة",
+    "response_en": "I can learn any action you perform on your computer, from opening apps to creating complex reports"
+  },
+  "هل تعمل بدون إنترنت": {
+    "response_ar": "نعم، الإصدار الحالي يعمل بشكل كامل دون اتصال بالإنترنت",
+    "response_en": "Yes, the current version works fully offline without internet connection"
+  },
+  "أرغب في تعليمك أمر": {
+    "response_ar": "بالطبع، قل لي الأمر الجديد ثم قم بتنفيذه بنفسك، وسأراقب وأتعلم",
+    "response_en": "Certainly, tell me the new command then perform it yourself, I'll observe and learn"
+  },
+  "ما هي إمكانياتك": {
+    "response_ar": "يمكنني: فتح التطبيقات، البحث عن الملفات، إنشاء الجداول، تسجيل الملاحظات، وتعلم المزيد منك يوميًا",
+    "response_en": "I can: open applications, search for files, create spreadsheets, take notes, and learn more from you daily"
+  },
+  "كيف تتعلم": {
+    "response_ar": "أتعلم من خلال مراقبة إجراءاتك بعد طلباتك، وتحليل الأنماط المتكررة في عملك",
+    "response_en": "I learn by observing your actions after your requests, and analyzing recurring patterns in your work"
+  },
+  "هل يمكنك مساعدتي في البرمجة": {
+    "response_ar": "نعم، يمكنني توليد أكواد بسيطة وتنفيذها، قل لي ما الذي تريد إنشاءه",
+    "response_en": "Yes, I can generate and execute simple code snippets, tell me what you want to create"
+  },
+  "ما الجديد في اصدارك القادم": {
+    "response_ar": "الإصدار القادم سيتضمن التعلم التشاركي ومزامنة الأوامر بين الأجهزة",
+    "response_en": "The next version will include collaborative learning and command syncing across devices"
+  },
+  "هل يمكنك التحدث بلغات أخرى": {
+    "response_ar": "حاليًا أركز على العربية، لكن سأدعم لغات أخرى في المستقبل",
+    "response_en": "Currently I focus on Arabic, but I'll support other languages in the future"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "events": {
+    "eid_al_fitr": "2025-03-31",
+    "eid_al_adha": "2025-06-06",
+    "ramadan_start": "2025-03-01",
+    "hijri_new_year": "2025-07-27",
+    "gregorian_new_year": "2025-01-01"
+  },
+  "messages": {
+    "birthday_countdown": {
+      "10_days": {
+        "ar": "عيد ميلادك اقترب يا {name_ar}! 🎉 تبقى 10 أيام!",
+        "en": "Your birthday is coming {name_en}! 🎉 10 days left!"
+      },
+      "3_days": {
+        "ar": "بعد 3 أيام سيكون يومك المميز {name_ar} 🎈",
+        "en": "Your special day is in 3 days {name_en} 🎈"
+      },
+      "1_day": {
+        "ar": "غدًا عيد ميلادك يا {name_ar}! 😍",
+        "en": "Tomorrow is your birthday {name_en}! 😍"
+      },
+      "today": {
+        "ar": "عيد ميلاد سعيد يا {name_ar}! 🥳",
+        "en": "Happy birthday {name_en}! 🥳"
+      }
+    },
+    "eid_al_fitr": {
+      "ar": "عيد مبارك يا {name_ar}، أعاده الله عليك باليمن والبركات 🌙✨",
+      "en": "Eid Mubarak {name_en}! May Allah bless you 🌙✨"
+    },
+    "eid_al_adha": {
+      "ar": "كل عام وأنت بخير يا {name_ar}، تقبّل الله طاعاتك 🕋",
+      "en": "Eid Al-Adha Mubarak {name_en}! May Allah accept your worship 🕋"
+    },
+    "ramadan_start": {
+      "ar": "رمضان كريم يا {name_ar}، نسأل الله القبول 🌙",
+      "en": "Ramadan Kareem {name_en}! May Allah accept our fasting 🌙"
+    },
+    "gregorian_new_year": {
+      "ar": "سنة جديدة سعيدة {name_ar}، سنة خير ونجاح 🥂",
+      "en": "Happy New Year {name_en}! Wishing you success 🥂"
+    },
+    "hijri_new_year": {
+      "ar": "عام هجري مبارك يا {name_ar}، جعله الله عام توفيق ✨",
+      "en": "Happy Hijri New Year {name_en}! May it be blessed ✨"
+    }
+  }
+}

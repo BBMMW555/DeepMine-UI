@@ -1,0 +1,10 @@
+PyQt5==5.15.9
+SpeechRecognition==3.8.1
+pyttsx3==2.90
+cryptography==41.0.7
+python-dotenv==1.0.0
+pywin32==306
+numpy==1.26.4
+pydub==0.25.1
+python-magic==0.4.27
+sip>=6.12.0

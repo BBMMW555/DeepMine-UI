@@ -1,0 +1,775 @@
+2025-07-02 03:03:18,962 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 03:12:27,098 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 03:16:51,307 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 03:16:51,517 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-02 03:17:44,017 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 03:17:44,218 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-02 03:17:50,231 - SystemLogger - INFO - Recognized: „—Õ»«
+2025-07-02 03:17:52,769 - SystemLogger - INFO - Recognized: Ì« ”Ì—Ì
+2025-07-02 03:18:27,067 - SystemLogger - INFO - Recognized: Ì« ”Ì—Ì
+2025-07-02 03:18:48,043 - SystemLogger - INFO - Recognized: Ì« ”Ì—Ì
+2025-07-02 03:18:58,268 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-02 03:18:58,284 - SystemLogger - ERROR - Recognition error: 'FloatingAssistant' object has no attribute 'show_response'
+2025-07-02 03:28:23,167 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 03:33:18,922 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 03:34:41,468 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 03:36:10,502 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 03:36:10,727 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-02 03:36:18,360 - SystemLogger - INFO - Recognized: Ì⁄‰Ì ”«⁄…
+2025-07-02 03:36:25,440 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-02 03:36:42,494 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 03:36:42,751 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-02 03:36:47,227 - SystemLogger - INFO - Recognized: „—Õ»«
+2025-07-02 03:36:54,523 - SystemLogger - INFO - Recognized: «·”·«„ ⁄·Ìﬂ„
+2025-07-02 03:36:59,466 - SystemLogger - INFO - Recognized: ”«¡ 
+2025-07-02 03:37:04,586 - SystemLogger - INFO - Recognized: „”«¡
+2025-07-02 03:37:09,872 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-02 03:40:53,990 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 17:50:55,574 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 18:18:42,073 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 18:43:20,597 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 18:43:30,863 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 19:30:54,948 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 19:39:32,493 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 19:39:32,798 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-02 19:40:02,064 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 19:40:02,273 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-02 19:40:10,569 - SystemLogger - INFO - Recognized: ⁄‰
+2025-07-02 19:40:56,624 - SystemLogger - INFO - Recognized: √Ã·
+2025-07-02 19:41:01,710 - SystemLogger - INFO - Recognized: ”«„Ì
+2025-07-02 19:41:03,608 - SystemLogger - INFO - Recognized: «‰‘€«·Â„
+2025-07-02 19:41:07,163 - SystemLogger - INFO - Recognized: „⁄
+2025-07-02 19:41:09,307 - SystemLogger - INFO - Recognized: „„ﬂ‰
+2025-07-02 19:41:13,876 - SystemLogger - INFO - Recognized: «Ì‘ «·”—
+2025-07-02 19:41:29,180 - SystemLogger - INFO - Recognized: «·—ÕÌ„
+2025-07-02 19:41:31,401 - SystemLogger - INFO - Recognized: «·¬‰
+2025-07-02 19:41:36,466 - SystemLogger - INFO - Recognized: «·’„«„
+2025-07-02 19:41:40,176 - SystemLogger - INFO - Recognized: ≈‰Â« „»œ√
+2025-07-02 19:41:43,708 - SystemLogger - INFO - Recognized: ÕÌ‰ ÌÂ—»Ê‰
+2025-07-02 19:41:46,506 - SystemLogger - INFO - Recognized: „« Õœ«
+2025-07-02 19:41:51,883 - SystemLogger - INFO - Recognized:  ﬂ·„Ê« ”Ã· ﬂ·«„ﬂ «” ‰Ï
+2025-07-02 19:42:07,102 - SystemLogger - INFO - Recognized:  ﬁÊ·
+2025-07-02 19:42:22,146 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 19:42:22,348 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-02 19:42:25,413 - SystemLogger - INFO - Recognized: ‰‘—
+2025-07-02 19:42:28,951 - SystemLogger - INFO - Recognized: „Õ”‰
+2025-07-02 20:14:45,006 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 20:14:45,223 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-02 20:14:49,474 - SystemLogger - INFO - Recognized: «·Ê’›
+2025-07-02 20:15:08,948 - SystemLogger - INFO - Recognized: Â–« «·Œ·«’ „—Õ·… «·—Ã«¡ »” ≈Ã  «·›ﬂ—…
+2025-07-02 20:15:15,651 - SystemLogger - INFO - Recognized: «· ’„Ì„ «·Õ·Ê Â–« «·‘ﬂ·
+2025-07-02 20:15:21,052 - SystemLogger - INFO - Recognized: Â–« „—»⁄ «·‰’ »” —”«·…
+2025-07-02 20:15:24,189 - SystemLogger - INFO - Recognized: Â–« «·“— „Ìﬂ—›Ê‰
+2025-07-02 20:15:28,619 - SystemLogger - INFO - Recognized: Â–« “—  › Õ ‰«›–… ≈⁄œ«œ« 
+2025-07-02 20:15:30,202 - SystemLogger - INFO - Recognized: ÷»ÿ
+2025-07-02 20:15:41,580 - SystemLogger - INFO - Recognized: «Ã· ›ﬂ—… «·¬‰ Ì»·⁄ ﬂ· ‘Ì¡ Ê„ﬂ » ·„’— Ìﬂ » ·Ì ﬂ«„· «··Ì  Õﬁﬁ „‰ «·√„Ê— »” ﬁ«· ·Ì «‰« »” «·—”«·… ﬂ «» ’Ê Ì
+2025-07-02 20:15:43,575 - SystemLogger - INFO - Recognized: ﬂ„
+2025-07-02 20:15:46,561 - SystemLogger - INFO - Recognized: «·≈⁄œ«œ«  „„ﬂ‰
+2025-07-02 20:15:50,176 - SystemLogger - INFO - Recognized: ›Ì ≈ÿ·«ﬁ
+2025-07-02 20:15:53,816 - SystemLogger - INFO - Recognized: ›Ì „—Õ·… ‘Ê› «·„ﬂ—Ê›Ê‰« 
+2025-07-02 20:15:57,401 - SystemLogger - INFO - Recognized: ÌÃÊ“ ”Ã‰ √Ì ﬂ·„…  ﬁÊ·Â«
+2025-07-02 20:16:10,410 - SystemLogger - INFO - Recognized: —»ÿ √Ì √„— Ì‰›– «·⁄œ«œ«  „„ﬂ‰  —»ÿÂ« ÌŒ ›Ì «·Ã„«· œÂ ﬁ⁄œ «› Õ Ì« ›·«‰ Ê·« ≈⁄œ«œ«  »Ìﬂ  Œ·ﬁ‰«
+2025-07-02 20:16:16,957 - SystemLogger - INFO - Recognized: “— «·„«Ìﬂ—Ê›Ê‰ ≈–« ÂÊ „ÊÃÊœ  ÷€ÿ ÌﬁÊ· ·ﬂ ¬”› ·„ Ìﬂ‰ ÿ«›
+2025-07-02 20:16:19,086 - SystemLogger - INFO - Recognized:  ﬂÊ‰
+2025-07-02 20:16:24,930 - SystemLogger - INFO - Recognized: «‰« œŒ· Â „Œ›Ì »«·⁄œ«œ«  Ì⁄ »— √‰Â „ÊÃÊœ
+2025-07-02 20:16:27,019 - SystemLogger - INFO - Recognized: „‰ Ÿ— „—Õ·…
+2025-07-02 20:16:35,830 - SystemLogger - INFO - Recognized: «” ⁄œ  »√Ì «”„ ﬁÿ— Ì—œ ⁄·Ìﬂ «·‰«” ›Ì »⁄÷Â„ ÌﬁÊ·ﬂ ﬂœÂ »” ‘Ì «”„⁄ ’Ê  »œÊ »·«œﬂ  »·‘Ì
+2025-07-02 20:16:44,666 - SystemLogger - INFO - Recognized: „Œ’’ ·Â« Ìﬂ » ·Ì ≈‰Ã·Ì“Ì Ìﬂ » ·Ì «”„ ⁄—»Ì ›Ì ‰›” «·Êﬁ 
+2025-07-02 20:16:47,963 - SystemLogger - INFO - Recognized: Œ·«’ ·€… ≈‰Ã·Ì“Ì… «··€… «·⁄—»Ì…
+2025-07-02 20:16:53,303 - SystemLogger - INFO - Recognized: „„ﬂ‰… „—Õ»« √ﬂ » ·ﬂ „—Õ»« Êﬁ«· ﬁ«” «·≈‰Ã·Ì“Ì…
+2025-07-02 20:16:57,170 - SystemLogger - INFO - Recognized: «·‰›ÿ «·’› ≈–« ÊÃœ ’Ê  ≈‰Ã·Ì“Ì
+2025-07-02 20:17:13,305 - SystemLogger - INFO - Recognized: ¬»ﬂ ⁄·Ï «·—œ √‰” ≈‰Ã·Ì“Ì Ê›Ì ‰›” «·Êﬁ  ÌﬁÊ· „—Õ»« »«·⁄œœ ”‰ﬂÊ‰  Œ›Ì‰ Ê«··⁄» √Ã· ‰Õ «Ã ﬂ—” ⁄—»ÌÂ ”‰«»Ì Ê»” «·≈ÿ·«ﬁ ﬂœÂ »œÊ‰ ﬂ «»… √Ê „⁄ ﬂ «»… ·«“„  ⁄—›Â«
+2025-07-02 20:17:18,192 - SystemLogger - INFO - Recognized: »ﬁÌ‰« Â‰« Â· √“Ìœ √›⁄«·  Õ  Â–« «·“Ì«—« 
+2025-07-02 20:17:22,971 - SystemLogger - INFO - Recognized: „—»⁄ ¬Œ— ≈–« ÷€ÿ ﬂ·Â« Õ«œÀ…
+2025-07-02 20:17:29,502 - SystemLogger - INFO - Recognized: »ÿ—Ìﬁ… ‰”Ì √ ﬂ·„ „⁄Â «·œ·Ì· «·ﬂ «»… «··Ì ›Êﬁ
+2025-07-02 20:17:38,707 - SystemLogger - INFO - Recognized: ‰ ﬂ·„ »œÊ‰ „Ã·”Â ﬁœ«„ «·‰«” √Ê √Œ·Ì Â–« »œÊ‰ «··Â„ ≈–« «‰›—œÊ«
+2025-07-02 20:17:44,373 - SystemLogger - INFO - Recognized: „Õ«œÀ… Ì›ﬂ ‰«›–… «·„Õ«œÀ«  «·ÌÊ„ »«‘—… Ê«ÃÂ… ﬂ«„·…
+2025-07-02 20:17:50,115 - SystemLogger - INFO - Recognized: Â–« «·Œ·«’ Â–« —œÊœ
+2025-07-02 20:17:56,574 - SystemLogger - INFO - Recognized: ’Ê ﬂ Ì”Ã· ﬂ·«„ﬂ
+2025-07-02 20:18:04,257 - SystemLogger - INFO - Recognized: Â–« Ì»ﬁÏ „—… ≈–« ›Ì „—Õ·… «·ﬂ «»… Ìﬂ »
+2025-07-02 20:18:07,924 - SystemLogger - INFO - Recognized: Ê›Ì ‰›” «·Êﬁ  Ì—œ
+2025-07-02 20:18:12,575 - SystemLogger - INFO - Recognized: „Õ«œÀ… »”
+2025-07-02 20:18:24,799 - SystemLogger - INFO - Recognized: «Õ·Ì Õ«Ã… ·«“„ ≈‰Â ÌŒ ›Ì ≈–« „« ›Ì‘ ﬂ·«„ Ê·« Õ«Ã… ·‘ÊÌ… „Õ ›Ï √‰« ﬁ·  ·Â ”ÊÌ Œ„” œﬁ«∆ﬁ ≈–« „« ›Ì «·’Ê 
+2025-07-02 20:18:34,467 - SystemLogger - INFO - Recognized: „« ›Ì‘ Œ„” œﬁ«∆ﬁ À«‰Ì… ÌŒ ›Ì ≈·Ï ﬁ«∆„… «·„Â«„ ⁄·Ï «·Ã«‰»
+2025-07-02 20:18:39,750 - SystemLogger - INFO - Recognized: «ÿ·«ﬁ ÊÃ·” »⁄œÂ« „·› »«  ÊÌŒ ›Ì
+2025-07-02 20:18:55,359 - SystemLogger - INFO - Recognized: «·÷»ÿ „‘ ›Ì «·Ê«ÃÂ… ‘ Ì›Ì ≈⁄œ«œ ﬁ«∆„… ﬂ„ Ã» Â —«Õ  ’Ì— √œ«… ﬂ«„·  Œ «— «·’Ê Ì«  «·–Ì  ‘ÌÂ „« «·Õ«Ã… «· Ì  Õ «ÃÂ« «·’Ê  «·’Ê  „„ﬂ‰ „·›«  ¬Œ—
+2025-07-02 20:19:04,285 - SystemLogger - INFO - Recognized: ’Ê  «·‰Ÿ«„ ‰›”Â« ·„« ﬁ·  Â–« ‘Ì Ìÿ·⁄ „„ﬂ‰ ÌÕÿÂ »Â–« «··Ì »Ê Ì‰ √‰« ﬂ‰  Õ÷— ﬂ
+2025-07-02 20:19:08,293 - SystemLogger - INFO - Recognized: «·’Ê  «··Ì Ìÿ·⁄
+2025-07-02 20:19:18,390 - SystemLogger - INFO - Recognized: Œ·’ «·Ã—” «·Ã‰”Ì… Ì« „”«⁄œ «·‘«–·Ì Â–« ·Ì” ﬂœÂ Ì« „”«⁄œ
+2025-07-02 22:57:30,997 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 22:57:31,322 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-02 22:57:46,521 - SystemLogger - INFO - Recognized: ·„”«¡…
+2025-07-02 22:58:03,337 - SystemLogger - INFO - Recognized: „”«⁄œ
+2025-07-02 23:47:51,889 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-02 23:47:52,331 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 00:01:55,923 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 01:56:08,686 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 02:00:57,587 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 02:04:33,120 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 02:04:33,435 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 02:06:08,106 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 02:06:08,311 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 02:07:47,518 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-03 02:17:36,448 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 02:17:37,358 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 02:18:03,747 - SystemLogger - INFO - Recognized: …
+2025-07-03 02:18:07,373 - SystemLogger - INFO - Recognized: ”«¡ 
+2025-07-03 02:18:12,065 - SystemLogger - INFO - Recognized: „”«⁄…
+2025-07-03 02:18:19,079 - SystemLogger - INFO - Recognized: „”«⁄œ
+2025-07-03 02:27:57,657 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 02:27:58,435 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 02:28:14,773 - SystemLogger - INFO - Recognized: ”«¡ 
+2025-07-03 02:28:20,885 - SystemLogger - INFO - Recognized: ≈”«¡…
+2025-07-03 02:28:34,648 - SystemLogger - INFO - Recognized: ·„”«¡…
+2025-07-03 02:28:39,276 - SystemLogger - INFO - Recognized: Ê”«¡ 
+2025-07-03 02:29:08,999 - SystemLogger - INFO - Recognized: ÊÃ«¡ 
+2025-07-03 02:29:19,798 - SystemLogger - INFO - Recognized: ”«¡ 
+2025-07-03 02:29:31,194 - SystemLogger - INFO - Recognized: ”Ê«¡ „”«⁄…
+2025-07-03 02:29:37,096 - SystemLogger - INFO - Recognized: „”«⁄œ…
+2025-07-03 02:32:03,057 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 02:32:03,789 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 02:33:52,117 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 02:33:52,830 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 02:45:40,059 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 02:45:40,813 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 02:45:56,723 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 02:45:57,452 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 02:54:31,621 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 02:54:32,412 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 02:57:13,569 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 02:57:14,313 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 02:58:42,295 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 02:58:43,049 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 03:00:04,886 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 03:00:05,624 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 03:07:21,344 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 03:07:22,153 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 03:08:36,722 - SystemLogger - INFO - Recognized: Ì« „‰Ì
+2025-07-03 03:08:43,102 - SystemLogger - INFO - Recognized: ”«⁄…
+2025-07-03 03:08:48,491 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ…
+2025-07-03 03:10:40,497 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 03:10:41,236 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 03:11:33,357 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 03:11:33,569 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 03:14:40,136 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 03:14:40,325 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 03:16:59,319 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 03:19:09,870 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 03:20:00,981 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 03:20:01,174 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 03:21:00,721 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 03:21:00,927 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 03:21:36,170 - SystemLogger - INFO - Recognized: ’Ê›Ì
+2025-07-03 03:22:43,064 - SystemLogger - INFO - Recognized: ‰⁄„
+2025-07-03 03:30:21,334 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 03:30:21,544 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 03:31:31,710 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 03:31:31,897 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 04:02:32,820 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 04:10:49,380 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 04:18:07,648 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 04:18:53,134 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 04:21:00,243 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 04:22:41,042 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 04:26:54,761 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 04:28:19,364 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 04:46:27,354 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 04:46:27,639 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 04:46:45,123 - SystemLogger - INFO - Recognized: „”«¡«
+2025-07-03 04:46:51,194 - SystemLogger - INFO - Recognized: Ì« ”«⁄…
+2025-07-03 04:46:55,449 - SystemLogger - INFO - Recognized: Ì⁄‰Ì „”«⁄œ…
+2025-07-03 04:47:03,995 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-03 04:47:18,862 - SystemLogger - INFO - Recognized: ”«¡ 
+2025-07-03 04:47:24,538 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-03 04:47:30,269 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-03 04:47:51,268 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 04:47:51,457 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 04:48:16,946 - SystemLogger - INFO - Recognized: ÂÌ« „⁄ «·”·«„… «· ’›Ì« 
+2025-07-03 04:48:23,166 - SystemLogger - INFO - Recognized: ·ÂÊ·«¡ ⁄·«ﬁ« Â„ ≈·« »«··Â
+2025-07-03 04:56:41,607 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 04:57:17,822 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 04:57:18,022 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 04:58:05,046 - SystemLogger - INFO - Recognized: Ì«
+2025-07-03 04:58:10,587 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-03 04:58:47,816 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 04:58:48,033 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 05:02:46,520 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 05:02:46,742 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 05:04:19,096 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 05:09:02,121 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 05:15:06,341 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 05:15:06,592 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 05:15:59,634 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 05:15:59,819 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 05:19:56,249 - SystemLogger - INFO - Recognized: √Ê·«
+2025-07-03 05:20:01,376 - SystemLogger - INFO - Recognized: –Â»Â« «·„› ÊÕ
+2025-07-03 05:20:06,129 - SystemLogger - INFO - Recognized: «·„÷«œ
+2025-07-03 05:20:14,142 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ …
+2025-07-03 05:22:42,324 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 05:22:42,520 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 05:22:59,262 - SystemLogger - INFO - Recognized: „”«⁄œ
+2025-07-03 05:23:06,438 - SystemLogger - INFO - Recognized: ”«¡ 
+2025-07-03 05:23:11,022 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-03 05:23:52,707 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 05:23:52,918 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 05:24:01,947 - SystemLogger - INFO - Recognized: „—Õ»«
+2025-07-03 05:24:17,862 - SystemLogger - INFO - Recognized: «·”·«„
+2025-07-03 05:24:20,940 - SystemLogger - INFO - Recognized: „‰€÷ ”Ì«œ…
+2025-07-03 05:24:24,718 - SystemLogger - INFO - Recognized: «·‘·ÊÕ
+2025-07-03 05:24:29,116 - SystemLogger - INFO - Recognized: «·“ÊÃ«  «·œÊ—
+2025-07-03 05:24:34,844 - SystemLogger - INFO - Recognized: ’·Ï «··Â «··Â
+2025-07-03 05:24:39,602 - SystemLogger - INFO - Recognized: Õ«Ê· Ê«·œÂ«
+2025-07-03 05:24:44,478 - SystemLogger - INFO - Recognized:  ›ﬂﬂ  Ì„ﬂ‰ ”»» Â–« «·ﬁ—» ·Ê“«— ﬂ ﬁœ«„ ﬂÌ·Ê„ —
+2025-07-03 05:24:49,665 - SystemLogger - INFO - Recognized: ﬁœ Õ«Ê· ﬂ„«·
+2025-07-03 05:24:52,677 - SystemLogger - INFO - Recognized: ‘œÌœ
+2025-07-03 05:25:00,148 - SystemLogger - INFO - Recognized: ·ﬂ‰ »⁄œ„« «·√‘—«› «› ÕÊ« ÌÀÌ— Ì√ÊÊ« «·ﬂÂ—»«¡
+2025-07-03 05:25:06,257 - SystemLogger - INFO - Recognized: √Ã· »Õ«Ã… ·œ›⁄… „« —œ‘ »«·»œ·«  √Â· ‰ ﬂ·„Â Ì”Ã·
+2025-07-03 05:25:13,147 - SystemLogger - INFO - Recognized: ”Ì«—…
+2025-07-03 05:25:15,181 - SystemLogger - INFO - Recognized: «··Â
+2025-07-03 05:25:28,031 - SystemLogger - INFO - Recognized: «·–Ì √’œ—‰«Â
+2025-07-03 05:25:30,015 - SystemLogger - INFO - Recognized: Â–Â
+2025-07-03 05:25:32,090 - SystemLogger - INFO - Recognized: »‰€«“Ì
+2025-07-03 06:19:49,267 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 06:19:49,555 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 06:27:24,068 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 06:27:24,310 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 06:27:44,110 - SystemLogger - INFO - Recognized: Ì”«⁄œ
+2025-07-03 06:27:48,716 - SystemLogger - INFO - Recognized: „”«⁄œ
+2025-07-03 06:32:40,937 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 06:32:41,135 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 06:32:49,338 - SystemLogger - INFO - Recognized: ≈Ì«„ ”«⁄œ
+2025-07-03 06:32:54,315 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-03 06:40:17,097 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 06:40:17,366 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 15:10:08,891 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 15:10:09,409 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 15:14:56,874 - SystemLogger - INFO - Recognized: Ì‰Ÿ—
+2025-07-03 15:15:37,792 - SystemLogger - INFO - Recognized: «Œ  „  ›Ì
+2025-07-03 16:21:33,491 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 16:21:33,815 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 16:24:15,128 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 16:24:15,317 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 16:24:54,738 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 16:24:54,918 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 16:32:59,090 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 16:32:59,267 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 16:43:03,838 - SystemLogger - INFO - Recognized: ›Ì
+2025-07-03 16:45:12,325 - SystemLogger - INFO - Recognized: ‰Ê„
+2025-07-03 16:49:45,183 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 16:49:45,391 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 17:04:52,033 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 17:04:52,237 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 17:11:24,989 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 17:11:25,203 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 17:12:32,756 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 17:12:32,942 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 17:15:24,223 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 17:15:24,450 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 17:16:07,418 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 17:16:07,588 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 17:16:46,943 - SystemLogger - INFO - Recognized: √ÊÂ
+2025-07-03 17:20:36,932 - SystemLogger - INFO - Recognized: ﬁœ
+2025-07-03 17:27:57,604 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 17:27:57,865 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 17:30:42,646 - SystemLogger - INFO - Recognized: ·«
+2025-07-03 17:33:01,663 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 17:33:01,848 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 17:34:04,151 - SystemLogger - INFO - Recognized: ·«
+2025-07-03 17:34:29,764 - SystemLogger - INFO - Recognized: ·«
+2025-07-03 17:45:01,321 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 17:45:01,579 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 17:45:07,613 - SystemLogger - INFO - Recognized: «··Â
+2025-07-03 17:45:40,912 - SystemLogger - INFO - Recognized: Ì« ”« —
+2025-07-03 17:52:51,818 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 17:52:52,059 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 17:54:56,457 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 17:55:27,253 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 17:55:27,437 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 17:56:47,091 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 17:56:47,269 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 17:57:25,409 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 17:57:58,612 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 18:02:20,381 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 18:02:20,594 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 18:13:25,887 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 18:13:26,073 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 18:15:10,379 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 18:15:10,578 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 18:15:47,567 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 18:15:47,750 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 18:16:33,615 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 18:16:33,796 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 18:18:05,213 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 18:18:05,421 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 18:24:27,261 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 18:24:27,528 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 18:34:29,991 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 18:34:30,425 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 18:38:18,480 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 18:38:18,688 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 18:38:51,964 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 18:38:52,150 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 18:39:43,719 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 18:39:43,914 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 19:51:00,781 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 19:51:01,088 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 19:53:56,358 - SystemLogger - INFO - Recognized: Ì „
+2025-07-03 19:54:06,849 - SystemLogger - INFO - Recognized: ⁄«„
+2025-07-03 19:54:11,926 - SystemLogger - INFO - Recognized: √»Ì
+2025-07-03 19:54:16,876 - SystemLogger - INFO - Recognized: ⁄«„
+2025-07-03 19:54:27,493 - SystemLogger - INFO - Recognized: œ»Ì
+2025-07-03 19:54:48,251 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 19:54:48,429 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 19:59:06,674 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 19:59:06,990 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 21:36:37,417 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 21:36:37,680 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 21:48:20,878 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 21:48:21,073 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 22:18:42,374 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 22:18:42,626 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 22:18:51,069 - SystemLogger - INFO - Recognized: ’Ê—
+2025-07-03 22:18:56,513 - SystemLogger - INFO - Recognized: ›Ì «·’»«Õ Ìﬁ·ﬁ „”«¡
+2025-07-03 22:18:58,717 - SystemLogger - INFO - Recognized: „”«¡ «·‰Ê—
+2025-07-03 22:19:05,247 - SystemLogger - INFO - Recognized: ·« ·«
+2025-07-03 22:19:09,326 - SystemLogger - INFO - Recognized: ﬁ·  ·Â «·⁄·Ì« ·Âƒ·«¡ √ﬂ·„ ‰«” ÊÂ„ Ì·⁄»Ê‰
+2025-07-03 22:19:11,859 - SystemLogger - INFO - Recognized: Ìﬂ‰”
+2025-07-03 22:19:22,642 - SystemLogger - INFO - Recognized:  ﬂ‰”
+2025-07-03 22:19:24,697 - SystemLogger - INFO - Recognized: ‘Ê›
+2025-07-03 22:19:30,803 - SystemLogger - INFO - Recognized: Ì»⁄œ „Ì·«œÌ
+2025-07-03 22:19:33,349 - SystemLogger - INFO - Recognized: „ «⁄» „Ì·«œÌ
+2025-07-03 22:19:38,577 - SystemLogger - INFO - Recognized: ﬁ»·Â« ﬁ»·Â« »À·«À… √Ì«„ Ì–ﬂ—ﬂ ﬁ»·Â« »ÌÊ„ Ì√„· ⁄Ì 
+2025-07-03 22:19:42,450 - SystemLogger - INFO - Recognized: ·«  ‰“·ﬁ ›Ì «· ·› ‰›”Â«
+2025-07-03 22:19:47,744 - SystemLogger - INFO - Recognized: «·„Ì“«  «À‰Ì‰  ”„ÌÂ „‘ ”Ì«”Ì
+2025-07-03 22:19:53,390 - SystemLogger - INFO - Recognized: ”„Ì— √»Ê’«·Õ »⁄œ ‘Â—
+2025-07-03 22:20:03,649 - SystemLogger - INFO - Recognized: Ì« »‰   ÃÌ» «·„ﬂ—”… Ê√‰« √ ﬂ·„ »·”«‰
+2025-07-03 22:20:07,554 - SystemLogger - INFO - Recognized: ‘Ê›
+2025-07-03 22:20:11,772 - SystemLogger - INFO - Recognized: Œ·Ì‰Ì ‰ÕﬂÌ ·ﬂ ⁄‰
+2025-07-03 22:20:18,956 - SystemLogger - INFO - Recognized: ›Ì «·”ÊÌ
+2025-07-03 22:20:21,430 - SystemLogger - INFO - Recognized: ·”  ÌÊÀﬁ
+2025-07-03 22:20:25,727 - SystemLogger - INFO - Recognized: ‰Õ‰ ‰”«‰œ «·‰”«
+2025-07-03 22:20:48,615 - SystemLogger - INFO - Recognized: «·„ »⁄
+2025-07-03 22:20:52,741 - SystemLogger - INFO - Recognized: √ﬂ‰” Ã«»  «·Õ—„ ⁄·Ìﬂ
+2025-07-03 22:21:06,540 - SystemLogger - INFO - Recognized: ÌœÌ—
+2025-07-03 22:21:21,926 - SystemLogger - INFO - Recognized: «·ÊÕÌ
+2025-07-03 22:21:37,311 - SystemLogger - INFO - Recognized: »⁄÷
+2025-07-03 22:21:43,590 - SystemLogger - INFO - Recognized: „”«¡
+2025-07-03 23:53:56,744 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 23:53:56,984 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 23:54:59,253 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-03 23:54:59,443 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-03 23:57:03,231 - SystemLogger - INFO - Recognized: ⁄„·
+2025-07-03 23:57:15,538 - SystemLogger - INFO - Recognized: Ì« ”«—Ì
+2025-07-03 23:57:26,005 - SystemLogger - INFO - Recognized: ”√⁄œ
+2025-07-03 23:57:28,861 - SystemLogger - INFO - Recognized: ”√⁄œ
+2025-07-03 23:57:32,913 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-04 00:25:18,794 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 00:25:19,062 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-04 01:37:59,353 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 01:37:59,559 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-04 01:38:40,189 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 01:38:40,368 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-04 01:40:15,015 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 01:40:15,192 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-04 01:41:15,740 - SystemLogger - INFO - Recognized: Ì«
+2025-07-04 01:41:20,353 - SystemLogger - INFO - Recognized: Ì« ”ÌœÌ
+2025-07-04 01:41:25,481 - SystemLogger - INFO - Recognized: „”«⁄œ
+2025-07-04 01:56:00,343 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 01:56:47,547 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 01:56:47,726 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-04 02:04:50,689 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 02:04:50,955 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-04 02:05:02,118 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-04 02:23:32,215 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 02:27:34,407 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 02:28:39,517 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 02:29:51,289 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 02:31:46,789 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 02:43:03,007 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 02:43:23,072 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 03:10:55,741 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 03:13:50,407 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 03:16:33,565 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 03:16:58,948 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 03:16:59,164 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-04 03:19:14,937 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 03:19:15,140 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-04 03:19:38,693 - SystemLogger - INFO - Recognized: „—Õ»«
+2025-07-04 03:19:53,375 - SystemLogger - INFO - Recognized: ”«⁄ 
+2025-07-04 03:19:58,989 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-04 03:21:18,326 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 03:21:18,552 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-04 21:41:34,321 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 21:43:52,419 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 21:47:36,289 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 21:50:12,315 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 21:50:29,833 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 21:50:42,260 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 21:50:42,477 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-04 22:06:17,595 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-04 22:06:17,843 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 01:30:44,562 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 01:30:45,431 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 01:31:08,656 - SystemLogger - INFO - Recognized: „—Õ»«
+2025-07-05 01:31:11,222 - SystemLogger - INFO - Recognized: ﬂÌ› Õ«—ﬂ
+2025-07-05 01:31:15,308 - SystemLogger - INFO - Recognized: Ì« „”«¡«
+2025-07-05 01:31:20,975 - SystemLogger - INFO - Recognized: Ì« ‰”«⁄œ
+2025-07-05 01:31:26,562 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 01:31:26,580 - SystemLogger - ERROR - Recognition error: 'MainWindow' object has no attribute 'show_response'
+2025-07-05 02:07:43,964 - SystemLogger - INFO - Speech model loaded: vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 04:33:39,532 - SystemLogger - ERROR - Model not found: ../models/vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 04:33:39,532 - SystemLogger - INFO - Microphone deactivated
+2025-07-05 04:33:39,532 - SystemLogger - INFO - Speech recognition resources cleaned
+2025-07-05 04:36:44,880 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 04:42:24,854 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 04:44:00,396 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 04:46:58,748 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 04:55:10,433 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 05:01:36,874 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 05:01:37,066 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 05:01:52,469 - SystemLogger - INFO - Recognized: „—Õ»«
+2025-07-05 05:01:58,098 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 05:06:22,586 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 05:06:22,713 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 05:06:34,580 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 05:22:29,233 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 05:22:29,427 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 05:27:49,582 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 05:27:49,703 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 05:40:03,855 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 05:40:04,543 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 05:42:02,109 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 05:42:02,214 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 05:48:44,392 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 05:48:44,490 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 05:48:59,171 - SystemLogger - INFO - Recognized: Ì« √„ ”«⁄…
+2025-07-05 05:49:05,820 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 07:12:59,847 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 07:13:00,029 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 07:13:22,909 - SystemLogger - INFO - Recognized: Ì« „Ê”Ï
+2025-07-05 07:13:32,154 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 07:14:30,484 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 07:14:30,584 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 07:21:03,557 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 07:21:03,696 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 07:23:22,061 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 07:23:22,165 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 07:23:48,646 - SystemLogger - INFO - Recognized: Ì« ⁄·Ì
+2025-07-05 07:23:56,993 - SystemLogger - INFO - Recognized: Ì« «·„”«⁄œ
+2025-07-05 07:24:04,661 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 07:35:54,017 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 07:36:55,377 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 07:36:55,487 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 07:41:35,144 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 07:41:35,268 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 07:41:48,906 - SystemLogger - INFO - Recognized: Ì« «·„”«⁄œ
+2025-07-05 07:41:55,033 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 07:42:17,808 - SystemLogger - INFO - Recognized: «› Õ „” ‰œ
+2025-07-05 07:42:29,520 - SystemLogger - INFO - Recognized: «» ÂÃÊ«
+2025-07-05 07:42:34,507 - SystemLogger - INFO - Recognized: „—Õ»«
+2025-07-05 07:42:42,711 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 07:42:47,781 - SystemLogger - INFO - Recognized: „”«⁄œ
+2025-07-05 07:42:54,433 - SystemLogger - INFO - Recognized: Ì« √»Ê «Õ„œ
+2025-07-05 07:43:01,081 - SystemLogger - INFO - Recognized: Ì« √Õ„œ
+2025-07-05 07:43:06,230 - SystemLogger - INFO - Recognized: „”«⁄œ
+2025-07-05 07:48:04,307 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 07:48:04,436 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 07:48:42,629 - SystemLogger - INFO - Recognized: …
+2025-07-05 07:48:47,760 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 07:48:53,905 - SystemLogger - INFO - Recognized: Ì« «Õ„œ
+2025-07-05 07:48:59,049 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 07:49:28,208 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 07:49:33,031 - SystemLogger - INFO - Recognized: Ì« «Õ„œ
+2025-07-05 07:52:41,075 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 07:52:41,179 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 07:53:08,304 - SystemLogger - INFO - Recognized: ”«⁄…
+2025-07-05 07:53:13,254 - SystemLogger - INFO - Recognized: Ì« «Õ„œ
+2025-07-05 07:53:18,401 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 08:05:17,259 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 08:05:17,455 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 08:05:52,254 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 08:05:59,938 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 08:06:04,882 - SystemLogger - INFO - Recognized: ﬂ√Õ„œ
+2025-07-05 08:06:09,501 - SystemLogger - INFO - Recognized: √Õ„œ
+2025-07-05 08:06:13,577 - SystemLogger - INFO - Recognized: Ì« «Õ„œ
+2025-07-05 08:06:18,708 - SystemLogger - INFO - Recognized: Ì« ‰”«⁄œ
+2025-07-05 08:06:22,963 - SystemLogger - INFO - Recognized: ”«⁄œÂ
+2025-07-05 08:06:28,935 - SystemLogger - INFO - Recognized: Ì„Ì‰Ì
+2025-07-05 08:06:33,567 - SystemLogger - INFO - Recognized: Ì«„Ì‰Ì
+2025-07-05 08:06:39,705 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 08:08:56,374 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 08:08:56,488 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 08:09:18,315 - SystemLogger - INFO - Recognized: Ì« √„ ”«⁄…
+2025-07-05 08:09:23,950 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 08:09:37,764 - SystemLogger - INFO - Recognized: Ì« «Õ„œ
+2025-07-05 08:09:45,971 - SystemLogger - INFO - Recognized: Ì« «Õ„œ
+2025-07-05 08:09:51,112 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 08:10:03,008 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 08:11:41,570 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 08:11:41,679 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 08:12:27,583 - SystemLogger - INFO - Recognized: Ì« √Õ„œ
+2025-07-05 08:12:31,829 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 08:12:38,344 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 08:13:17,098 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 08:13:17,217 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 08:15:05,127 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 08:15:05,241 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 08:16:47,795 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 08:16:47,897 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 08:18:28,348 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 08:18:28,468 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 08:20:48,836 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 08:20:48,970 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 08:21:10,801 - SystemLogger - INFO - Recognized: Ì« «Õ„œ
+2025-07-05 08:22:04,038 - SystemLogger - INFO - Recognized: „” ⁄œ… ··„œ—”…
+2025-07-05 08:22:10,701 - SystemLogger - INFO - Recognized: «·À«‰Ì… «·√Ê«‰ Ê«·√Ê·Ï
+2025-07-05 08:22:14,795 - SystemLogger - INFO - Recognized: «·À«‰Ì… Ê«·√Ê·Ï
+2025-07-05 08:22:21,623 - SystemLogger - INFO - Recognized: «·À«‰Ì… Ê≈·« «·√Ê·
+2025-07-05 08:22:25,609 - SystemLogger - INFO - Recognized: «·√Ê· „‰ «·√Ê«∆· «·»«ﬂÌ…
+2025-07-05 08:22:33,733 - SystemLogger - INFO - Recognized: «··Â ÌÊ›ﬁﬂ
+2025-07-05 14:52:27,568 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 14:52:27,738 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 14:54:52,457 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 14:54:52,639 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 14:54:59,846 - SystemLogger - INFO - Recognized: ≈⁄·«‰
+2025-07-05 14:55:04,918 - SystemLogger - INFO - Recognized: ”Ì«”Ì
+2025-07-05 14:55:10,088 - SystemLogger - INFO - Recognized: ·«
+2025-07-05 14:55:16,713 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 23:51:38,570 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 23:51:38,980 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 23:51:58,948 - SystemLogger - INFO - Recognized: Ì« „”«Ê«…
+2025-07-05 23:52:05,107 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 23:52:11,410 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-05 23:53:55,983 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 23:53:56,276 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 23:54:33,819 - SystemLogger - INFO - Recognized: ·«
+2025-07-05 23:56:22,049 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 23:56:22,344 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 23:57:34,718 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-05 23:57:34,833 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-05 23:58:23,284 - SystemLogger - INFO - Recognized: Ì« «Õ„œ
+2025-07-06 00:01:39,771 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-06 00:01:40,092 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-06 00:10:24,847 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-06 00:10:25,185 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-06 00:14:43,968 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-06 00:14:44,298 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-06 00:44:16,709 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-06 00:44:17,155 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-06 00:49:22,795 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-06 00:49:23,114 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-06 00:49:30,051 - SystemLogger - INFO - Recognized: Ê’›
+2025-07-06 00:49:35,079 - SystemLogger - INFO - Recognized: »”
+2025-07-06 00:49:39,965 - SystemLogger - INFO - Recognized: ≈–« »«” ›Â«„ ‘ÊÌ…
+2025-07-06 00:49:52,132 - SystemLogger - INFO - Recognized: ›Ì «·‘·ﬂ ÌŒ ›Ì ≈Õ‰« „« ‰ﬁÊ· Ì« „”«⁄œ √‰”Ã‰ ·ﬂ‰ ‘Ê —√Ìﬂ ÂÊ «·√⁄œ«œ Õ »ﬁÏ ‘»ﬂ… «·⁄œ«œ«  ÷»ÿ ≈⁄œ«œ«  ⁄·Ï ﬂÌ› ﬂ«‰ „‰ «·“·«·
+2025-07-06 00:57:27,855 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-06 00:57:28,367 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-06 01:00:37,959 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-06 01:00:38,288 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-06 01:07:20,506 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-06 01:07:20,798 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-06 01:07:29,955 - SystemLogger - INFO - Recognized: œ«Õ‰« Â–«  ﬂÊ‰ «·«‘ »«Â ⁄‰œ «·„Õ· ·‰« «·„Õ·«  «· ÿ»Ìﬁ
+2025-07-06 01:07:32,268 - SystemLogger - INFO - Recognized: «·⁄œ«œ« 
+2025-07-06 01:07:34,807 - SystemLogger - INFO - Recognized: Ì·«ÕŸ
+2025-07-06 01:07:41,559 - SystemLogger - INFO - Recognized: ”„Ï «”„ «·–Ì —»«ﬂ
+2025-07-06 01:07:44,615 - SystemLogger - INFO - Recognized: À„ Õ«Ã…
+2025-07-06 01:07:47,615 - SystemLogger - INFO - Recognized: Â–« Œ«’ ›Ì «· ·›Ê‰«  »ÌﬂÊ‰
+2025-07-06 01:07:51,733 - SystemLogger - INFO - Recognized: „« ›Ì ”«Õ«  «·Ì„‰ ﬂ·Â«  ‘ €· „‰
+2025-07-06 01:07:56,611 - SystemLogger - INFO - Recognized: „«ÂÌ «·ÿ—ﬁ ‘Ì ÌÃ» ··“·«“·
+2025-07-06 01:07:59,917 - SystemLogger - INFO - Recognized: «Ã „⁄Ê« «· ÿ»Ìﬁ
+2025-07-06 01:08:03,475 - SystemLogger - INFO - Recognized: „Õ„œ ⁄·ÊÌ „·ÌÊ‰ œÊ·«—
+2025-07-06 01:08:09,249 - SystemLogger - INFO - Recognized: ﬁ«· Õ—«» ÕÌ«… ÷—Ê—Ì «·ÌÊ„
+2025-07-06 01:08:11,864 - SystemLogger - INFO - Recognized: »«·ÌÊ„
+2025-07-06 01:08:16,076 - SystemLogger - INFO - Recognized: Â–« »ÌÃÌ» ·„·«ÌÌ‰ ‘Ì Ì—›⁄ ⁄‰Ì
+2025-07-06 01:08:21,246 - SystemLogger - INFO - Recognized: Õ”» „⁄ﬂ„ «· Ã— œ›⁄Â« –·ﬂ ·ﬂ‰ «·ÀÊ—Ì…
+2025-07-06 01:08:27,914 - SystemLogger - INFO - Recognized: ﬂ·Â„ «·¬‰ »«·ÌÊ„ Ì’»Õ √ —ﬂ ﬂ·Â„ ›ÊﬁÌ »·  ﬂÊ‰ ÃÌœ
+2025-07-06 01:13:14,434 - SystemLogger - INFO - Recognized: „«‰«
+2025-07-06 01:13:19,716 - SystemLogger - INFO - Recognized: «··Â
+2025-07-06 01:13:21,457 - SystemLogger - INFO - Recognized: «·œÊ·
+2025-07-06 01:16:22,557 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-06 01:16:22,849 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-06 01:18:42,297 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-06 01:18:42,456 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-06 01:19:36,159 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-06 01:19:36,300 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-06 01:22:19,911 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-06 01:22:20,265 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-06 01:23:40,113 - SystemLogger - INFO - Recognized: „⁄
+2025-07-06 01:23:44,699 - SystemLogger - INFO - Recognized: ÌÕ„œ
+2025-07-06 01:23:49,871 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-06 01:23:59,010 - SystemLogger - INFO - Recognized: Ì« «Õ„œ
+2025-07-06 01:24:08,379 - SystemLogger - INFO - Recognized: Ì«
+2025-07-06 01:29:36,865 - SystemLogger - INFO - Recognized: ›Ì⁄‰Ì Â–Â
+2025-07-06 01:29:40,353 - SystemLogger - INFO - Recognized: Â–Â «·ﬂ—«”… ÃÂ«“  «»⁄
+2025-07-06 01:29:43,021 - SystemLogger - INFO - Recognized: ÂÌ »«·ﬂ–»
+2025-07-06 01:29:49,085 - SystemLogger - INFO - Recognized: ” — «Õ ﬁœ —«”Ì Œ·«’
+2025-07-06 01:29:51,600 - SystemLogger - INFO - Recognized: ﬁ·  ·« ‘ﬂ—«
+2025-07-06 01:29:57,181 - SystemLogger - INFO - Recognized: ”⁄Ìœ Ãœ« √‰ «·Õ·
+2025-07-06 01:30:12,101 - SystemLogger - INFO - Recognized: «·—Ã«¡ ≈–« ﬂ«‰ ·œÌﬂ √Ì «” ›”«— ¬Œ— √Ê  Õ «Ã ≈·Ï „”«⁄œ… ›Ì Ã“∆Â« ›«·ﬂÊÌ  Ê«·⁄œÊ   —œœ ›Ì «·”ƒ«· √‰« Â‰« ·„”«⁄œ ﬂ ›Ì √Ì Êﬁ  Â· Â‰«ﬂ √Ì ‘Ì¡ ¬Œ—  —Ìœ  Õ”Ì‰Â
+2025-07-06 01:30:25,580 - SystemLogger - INFO - Recognized: ›Ì «· ÿ»Ìﬁ Ì„ﬂ‰ «·⁄„· ⁄·Ï √Ì „Ì“… ≈÷«›Ì… √Ê Õ· √Ì „‘ﬂ·…  Ê«ÃÂÂ« »«· Ê›Ìﬁ ·ﬂ ›Ì „‘—Ê⁄ﬂ
+2025-07-06 01:30:51,461 - SystemLogger - INFO - Recognized: ≈”„⁄ »”
+2025-07-06 01:30:56,594 - SystemLogger - INFO - Recognized: ¬Â
+2025-07-08 23:06:28,628 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-08 23:06:28,916 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-08 23:06:34,286 - SystemLogger - INFO - Recognized: ”Ê›
+2025-07-08 23:07:47,703 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-08 23:07:47,828 - SystemLogger - INFO - Microphone activated, waiting for commands
+2025-07-08 23:09:50,588 - SystemLogger - INFO - Recognized: «·⁄—»Ì…
+2025-07-08 23:09:57,691 - SystemLogger - INFO - Recognized: Ì⁄‰Ì ‘€«· ›Ì «· ‰“Ì·
+2025-07-08 23:10:04,355 - SystemLogger - INFO - Recognized: »· ”·ﬂ
+2025-07-08 23:10:09,487 - SystemLogger - INFO - Recognized: Â–« «·»—‰«„Ã √ÕﬂÌ ·ﬂ ﬂ—œ” «‰ „‰Â«
+2025-07-08 23:10:25,926 - SystemLogger - INFO - Recognized: Â–«
+2025-07-08 23:10:28,517 - SystemLogger - INFO - Recognized:  ⁄»—
+2025-07-08 23:10:30,966 - SystemLogger - INFO - Recognized: Â–« «·»—„Ã… √‰ 
+2025-07-08 23:10:36,712 - SystemLogger - INFO - Recognized: ‰⁄„
+2025-07-08 23:10:40,872 - SystemLogger - INFO - Recognized: ‰⁄„
+2025-07-08 23:10:43,249 - SystemLogger - INFO - Recognized: ⁄—»Ì «·¬‰
+2025-07-08 23:10:57,248 - SystemLogger - INFO - Recognized: œ«›Ì‰« »ﬁÌ ‰«
+2025-07-08 23:11:00,730 - SystemLogger - INFO - Recognized: ÷»ÿ «·„ﬂÊ‰…
+2025-07-08 23:11:03,912 - SystemLogger - INFO - Recognized: «··€…
+2025-07-08 23:11:19,478 - SystemLogger - INFO - Recognized: Â–Â «·‘œ« 
+2025-07-08 23:11:34,786 - SystemLogger - INFO - Recognized: Ã„⁄«
+2025-07-08 23:11:45,708 - SystemLogger - INFO - Recognized: ÊÂ–« «·„ﬂ«‰ «·„›—Ê÷ ÊÂ–« «·„ﬂ«‰
+2025-07-08 23:11:54,951 - SystemLogger - INFO - Recognized: ÌﬂÊ‰ ›ÌÂ Õ«Ã… «”„Â« ⁄—»Ì
+2025-07-08 23:11:59,548 - SystemLogger - INFO - Recognized: ‰Ê«Â ÊÂ–« «·ﬂ»—
+2025-07-08 23:12:09,844 - SystemLogger - INFO - Recognized: ÌÊÃœ
+2025-07-08 23:12:19,524 - SystemLogger - INFO - Recognized: «··Ì ÿ·⁄ Â
+2025-07-08 23:12:40,531 - SystemLogger - INFO - Recognized: ÊÃ«Â“
+2025-07-08 23:12:42,542 - SystemLogger - INFO - Recognized: „‰–
+2025-07-08 23:12:48,699 - SystemLogger - INFO - Recognized: ÊÂ–«
+2025-07-08 23:13:11,814 - SystemLogger - INFO - Recognized: ‰ﬁÊ· Â‰« «·”«⁄… Ì„ﬂ‰Â« ﬂ„Ê‰
+2025-07-08 23:13:14,479 - SystemLogger - INFO - Recognized: ÊÂ–«
+2025-07-08 23:13:17,893 - SystemLogger - INFO - Recognized: ÊÂ–«
+2025-07-08 23:13:23,064 - SystemLogger - INFO - Recognized: «·’«‰⁄
+2025-07-08 23:13:28,107 - SystemLogger - INFO - Recognized: √‰«
+2025-07-08 23:13:30,661 - SystemLogger - INFO - Recognized: Â–« «· «—ÌŒ Ê«·Êﬁ 
+2025-07-08 23:13:37,690 - SystemLogger - INFO - Recognized: Â–« ·« Ì„‰⁄  ﬂÊ‰ Â–« «·’Õ«»… Ì⁄‰Ì À«— 
+2025-07-08 23:13:42,465 - SystemLogger - INFO - Recognized: «·≈œ«—
+2025-07-08 23:13:47,568 - SystemLogger - INFO - Recognized: ‰⁄„
+2025-07-08 23:14:06,502 - SystemLogger - INFO - Recognized: «·√‘Ì«¡
+2025-07-08 23:14:11,234 - SystemLogger - INFO - Recognized: «” ‘Â«œÌ…
+2025-07-08 23:14:17,773 - SystemLogger - INFO - Recognized: ÿÌ»
+2025-07-08 23:14:38,276 - SystemLogger - INFO - Recognized:  ÕœÌÀ «·‰Ÿ«„
+2025-07-08 23:14:43,076 - SystemLogger - INFO - Recognized: ÌÕœ
+2025-07-08 23:14:54,786 - SystemLogger - INFO - Recognized: √ŒÌ  ÕﬁÌﬁÂ«
+2025-07-08 23:15:04,899 - SystemLogger - INFO - Recognized: √‰«
+2025-07-08 23:15:10,014 - SystemLogger - INFO - Recognized: »”„ «··Â ﬁÊÌ…
+2025-07-08 23:15:13,158 - SystemLogger - INFO - Recognized: √„‰ ﬁÊ„Ì
+2025-07-08 23:15:15,157 - SystemLogger - INFO - Recognized: «·œﬁ…
+2025-07-08 23:15:20,374 - SystemLogger - INFO - Recognized: ﬂ”«œ
+2025-07-08 23:15:26,569 - SystemLogger - INFO - Recognized: Êœ—√ ⁄‰Â„
+2025-07-08 23:15:30,069 - SystemLogger - INFO - Recognized: À·«À…
+2025-07-08 23:15:35,456 - SystemLogger - INFO - Recognized: √Õ„œ »Ê⁄‘—Ì‰ ·«  ‰ﬁ·»
+2025-07-08 23:15:37,409 - SystemLogger - INFO - Recognized: ﬂ„« ﬁÿ⁄Ê«
+2025-07-08 23:15:46,919 - SystemLogger - INFO - Recognized: ÂÌ
+2025-07-08 23:16:00,753 - SystemLogger - INFO - Recognized: Â· ›Ì „ﬂ«‰ À«‰Ì ··÷€ÿ
+2025-07-08 23:16:10,445 - SystemLogger - INFO - Recognized: Â–«  ÕÊÌ· «·ﬂ—«„
+2025-07-08 23:16:12,475 - SystemLogger - INFO - Recognized: „„ﬂ‰
+2025-07-08 23:16:23,088 - SystemLogger - INFO - Recognized: ⁄“Ì“Ì
+2025-07-08 23:16:53,616 - SystemLogger - INFO - Recognized: «·—ﬁ„«‰
+2025-07-08 23:16:58,592 - SystemLogger - INFO - Recognized: ≈ÃÂ«÷Â «·–Ì ÕﬁﬁÂ «··€…
+2025-07-08 23:17:01,688 - SystemLogger - INFO - Recognized: Â–«
+2025-07-08 23:17:09,444 - SystemLogger - INFO - Recognized: œŒ·‰«Â ≈‰Â«  ÷€ÿÂ »Õ«Ã… «”„Â« ·Â–«
+2025-07-08 23:17:16,772 - SystemLogger - INFO - Recognized: Â–« «··›Ÿ ‘Ê »ÌﬂÊ‰ Ì „ «” Œœ«„Â
+2025-07-08 23:17:20,737 - SystemLogger - INFO - Recognized: Ê‰Õ‰ «·¬‰ ‘Ìﬂ „⁄«‰« ≈‰Ã·Ì“Ì
+2025-07-08 23:17:22,660 - SystemLogger - INFO - Recognized: „‘ „ÊÃÊœ ‘Ì
+2025-07-08 23:17:27,920 - SystemLogger - INFO - Recognized: Ê≈–« ﬁ·‰« ≈÷«›…
+2025-07-08 23:17:31,325 - SystemLogger - INFO - Recognized: ≈–« ÿ·⁄ ⁄‘—Ì‰
+2025-07-08 23:17:41,561 - SystemLogger - INFO - Recognized: √Œ·ÌÂ ÌÕ„·
+2025-07-08 23:18:02,819 - SystemLogger - INFO - Recognized: „‰  Œ «—
+2025-07-08 23:18:08,810 - SystemLogger - INFO - Recognized: ·Ê ﬂ‰« Â–« ›—‰”Ì Â· Â–« „‰ Ê«Õœ
+2025-07-08 23:18:18,699 - SystemLogger - INFO - Recognized: «·›—‰”ÌÊ‰ ÌﬁÊœÂ „‰Ã· »œ«Œ·Â «·⁄—»Ì
+2025-07-08 23:18:23,065 - SystemLogger - INFO - Recognized: ≈–‰ ﬂ· ≈÷«›…
+2025-07-08 23:18:26,390 - SystemLogger - INFO - Recognized: „« ‰“·
+2025-07-08 23:18:34,074 - SystemLogger - INFO - Recognized: ≈–‰ «” Ì—«œ  ‰“Ì·  ‰“Ì· “Ì „«  ﬁÊ· ’Õ
+2025-07-08 23:18:35,881 - SystemLogger - INFO - Recognized: «··€…
+2025-07-08 23:18:43,004 - SystemLogger - INFO - Recognized: «Œ —‰«Â«
+2025-07-08 23:18:55,517 - SystemLogger - INFO - Recognized: »Ì  «··Â
+2025-07-08 23:18:59,891 - SystemLogger - INFO - Recognized: Â–« «·ﬂ «»…
+2025-07-08 23:19:03,041 - SystemLogger - INFO - Recognized: Ê«‰’»  ⁄Ê÷
+2025-07-08 23:19:08,141 - SystemLogger - INFO - Recognized: √ÌÊÂ ‘€«· «·¬‰
+2025-07-08 23:19:13,293 - SystemLogger - INFO - Recognized: ·«
+2025-07-08 23:19:15,825 - SystemLogger - INFO - Recognized: √ÌÊÂ
+2025-07-08 23:19:18,344 - SystemLogger - INFO - Recognized: ·«
+2025-07-08 23:19:22,483 - SystemLogger - INFO - Recognized: ﬁ«ÿ⁄ÊÂ„ Ì’·Õ »Â–«
+2025-07-08 23:19:25,199 - SystemLogger - INFO - Recognized: –«  «·‘Ì¡
+2025-07-08 23:19:27,722 - SystemLogger - INFO - Recognized: »—‰«„Ã «·œÊ—…
+2025-07-08 23:19:45,460 - SystemLogger - INFO - Recognized: ‰“·  √Ê·
+2025-07-08 23:19:50,779 - SystemLogger - INFO - Recognized: ·« ‘ﬂ
+2025-07-08 23:19:52,649 - SystemLogger - INFO - Recognized: » ›ÃÌ— ·ﬂ
+2025-07-08 23:19:58,505 - SystemLogger - INFO - Recognized: »”ÂÊ·
+2025-07-08 23:20:07,464 - SystemLogger - INFO - Recognized: Â–« ÊÂ–« ”⁄ÊœÌ
+2025-07-08 23:20:12,676 - SystemLogger - INFO - Recognized: Œ·Ìﬂ
+2025-07-08 23:20:19,801 - SystemLogger - INFO - Recognized: ⁄»œ «··Â Ã“¡ À«‰Ì
+2025-07-08 23:20:36,170 - SystemLogger - INFO - Recognized: œŒ·  «· ÿ»Ìﬁ
+2025-07-08 23:20:40,285 - SystemLogger - INFO - Recognized: Ê⁄·„ﬂ ﬂ«»  ” ›Ìœ „‰Â«
+2025-07-08 23:20:44,877 - SystemLogger - INFO - Recognized: ‘Ê› Â–Â  ÿ»Ìﬁ
+2025-07-08 23:20:51,013 - SystemLogger - INFO - Recognized: ·ﬂ Õ·Ê·
+2025-07-08 23:20:54,060 - SystemLogger - INFO - Recognized: «·„‘—Ê⁄
+2025-07-08 23:20:57,682 - SystemLogger - INFO - Recognized: «·‘Ì⁄  ÃÌ» ·ﬂ Œÿ«ÿ
+2025-07-08 23:21:08,011 - SystemLogger - INFO - Recognized: ŒÿÊ«  «·⁄„· ›Â–« ‘€· »—„Ã… Â–« «·‘ﬁ«
+2025-07-08 23:21:09,847 - SystemLogger - INFO - Recognized: «·⁄«„
+2025-07-08 23:21:13,549 - SystemLogger - INFO - Recognized: ‘Ê› Â–« «··Ì ›Ì «·‘«‘…
+2025-07-08 23:21:18,731 - SystemLogger - INFO - Recognized: Â–« ﬂ «»«  ﬂ «»ﬂ œﬂ Ê— «··Ì  ”«⁄œ‰Ì
+2025-07-08 23:21:25,855 - SystemLogger - INFO - Recognized: Â–« «· ·›Ê‰  ﬁÊ· Ì« „”«⁄œ ÊÌÿ·ﬁ Ê«··Â √”„ÌÂ
+2025-07-08 23:21:28,920 - SystemLogger - INFO - Recognized: „« 
+2025-07-08 23:21:33,542 - SystemLogger - INFO - Recognized: „’„„
+2025-07-08 23:21:35,578 - SystemLogger - INFO - Recognized: ≈‰ ¬‘
+2025-07-08 23:21:44,788 - SystemLogger - INFO - Recognized: √Ì Ê«Õœ ÌœŒ·Â Ìﬁœ— Ì”ÊÌ «·√“„… Ì« »Ê’«·Õ Ì—»Ê ⁄·ÌÂ Ì« ›·«‰… «”„⁄ Ì«»Ê √Õ„œ
+2025-07-08 23:21:48,884 - SystemLogger - INFO - Recognized: ÊÌ·  ⁄·Ìﬂ √Ì«„ ”«⁄œ
+2025-07-08 23:21:50,635 - SystemLogger - INFO - Recognized: Ìÿ·⁄ ﬂœÂ
+2025-07-08 23:21:57,913 - SystemLogger - INFO - Recognized: ”ÊÌ ﬂœÂ ’·ÕÌ ﬂœÂ Ê·–·ﬂ ﬁ«· „⁄«ﬂ„ ”·ÿ… √‰  ﬂÊ‰ ·Â« „‰ «·„ ’·
+2025-07-08 23:22:04,775 - SystemLogger - INFO - Recognized: ﬂ «» ÊÌﬁÊ·ﬂ ≈–«
+2025-07-08 23:22:09,108 - SystemLogger - INFO - Recognized: Â–« «· ÿ»Ìﬁ ÕﬁÌ ÌﬂÊ‰ Ìﬂ·„ﬂ Ì‘ ﬂÊ« ·Â«
+2025-07-08 23:22:11,375 - SystemLogger - INFO - Recognized: «›⁄·
+2025-07-08 23:22:14,474 - SystemLogger - INFO - Recognized: ÌﬁÊ· ·«
+2025-07-08 23:22:20,770 - SystemLogger - INFO - Recognized: «À‰«‰ ·„«  ﬁÊ· ·Â« « ’·  »√Õ„œ
+2025-07-08 23:22:24,741 - SystemLogger - INFO - Recognized: „‰ «ﬁ ’«œ
+2025-07-08 23:22:28,821 - SystemLogger - INFO - Recognized: « ’·Ì
+2025-07-08 23:22:39,805 - SystemLogger - INFO - Recognized: « ’·Ì √Õ„œ  ’·Ì »√Ì„«‰ √ŒÌÂ ÊÌÿ·⁄ ÌﬁÊ· ·ﬂ Â–« «·—ﬁ„ «· «·‘ÌŒ √Ì„‰ „ √ﬂœ „‰ ‘ﬁ ﬂ·Â ‰⁄„
+2025-07-08 23:22:41,658 - SystemLogger - INFO - Recognized:  ’—› »œ«·ﬂ
+2025-07-08 23:22:44,665 - SystemLogger - INFO - Recognized: √Ã· «· ÿ»Ìﬁ
+2025-07-08 23:22:50,865 - SystemLogger - INFO - Recognized:  ÿ»Ìﬁ
+2025-07-08 23:22:55,717 - SystemLogger - INFO - Recognized: »” ‘Ì
+2025-07-08 23:23:02,807 - SystemLogger - INFO - Recognized: »√”Ï Ì‰”Œ ·ﬂ √—ﬁ«„
+2025-07-08 23:23:05,216 - SystemLogger - INFO - Recognized: »œ·« „‰ ﬁÊ·Â« œÊ·‰«
+2025-07-08 23:23:09,850 - SystemLogger - INFO - Recognized: —€„ ·« Ì”«⁄œ
+2025-07-08 23:23:11,293 - SystemLogger - INFO - Recognized: “Ì ﬂœÂ
+2025-07-08 23:23:13,389 - SystemLogger - INFO - Recognized: «ÿ·⁄ ·ﬂ
+2025-07-08 23:23:18,151 - SystemLogger - INFO - Recognized: «‘ ÌÂ ﬁ·‰« √‰ﬂ  ”Ã· ›ﬂ«
+2025-07-08 23:23:32,363 - SystemLogger - INFO - Recognized: ”»⁄… ”»⁄… À„«‰Ì… ”»⁄… ÊÊﬁ⁄ ÌﬁÊ· ·ﬂ „Õ»ÿÌ‰ ﬂ·Â« ﬁ’… «Õ›Ÿ «·—ﬁ„ »” „⁄ „Õ„œ «·›·«‰Ì »œ„ œŒ«‰ Ê”Ì›⁄· ·« ﬁ«∆„… ÊÌÕ›Ÿ «·ﬁ«∆„…
+2025-07-08 23:23:38,979 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-08 23:23:43,071 - SystemLogger - INFO - Recognized: ’ÕÌ‰« ÌﬂÊ‰ Œ·«’ «·¬‰ √‰« »«·÷»ÿ ·ﬂ
+2025-07-08 23:23:48,153 - SystemLogger - INFO - Recognized:  ÷»ÿ —«Õ «· ÊﬁÌ 
+2025-07-08 23:23:50,709 - SystemLogger - INFO - Recognized: Êﬁ«· ”⁄… ” …
+2025-07-08 23:23:55,604 - SystemLogger - INFO - Recognized: ﬁ’… «·ﬁ„ ÌﬁÊ· ·ﬂ
+2025-07-08 23:24:06,140 - SystemLogger - INFO - Recognized: „„ﬂ‰ „„ﬂ‰ Ì‰Â«— „«–« ‘»Â „”ﬂ ﬂ ≈–«  ﬁœ„ „”ﬂ‰«  √Ê „«  „”ﬂÂ ÊÌ»⁄œ ﬂœ«
+2025-07-08 23:24:12,011 - SystemLogger - INFO - Recognized: ﬂ‰  „‰ «·‘— ﬁ«„ ·« √‰ﬂ„ »”ﬂ ÊÌ ﬂ·ﬂ „‰
+2025-07-08 23:24:14,277 - SystemLogger - INFO - Recognized: „—Õ»«
+2025-07-08 23:24:17,896 - SystemLogger - INFO - Recognized: ›Ì Õ«Ã… ÃœÌœ…
+2025-07-08 23:24:22,460 - SystemLogger - INFO - Recognized:  Õ” Õœ «‘ €· „⁄Â
+2025-07-08 23:24:26,031 - SystemLogger - INFO - Recognized: ‰Õ‰ „„ﬂ‰ √‰ﬁ·Â œ«Œ· Â–« «·ÃÂ«“
+2025-07-08 23:24:29,920 - SystemLogger - INFO - Recognized: »—‰«„Ã «· ÕﬁÌﬁ
+2025-07-08 23:24:32,699 - SystemLogger - INFO - Recognized: Ì« „”«⁄œ
+2025-07-08 23:24:35,757 - SystemLogger - INFO - Recognized: ›Ì «·‘«‘… «·Ã«—
+2025-07-08 23:24:43,672 - SystemLogger - INFO - Recognized: Ê«» Â· «·Ê« ” «· Õ·Ì· «·ÌÊ”›Ì «› ÕÌ ··”«Õ· ≈ﬁ·Ì„Ì« ··ﬁ‰«… ﬂœÂ
+2025-07-08 23:24:57,417 - SystemLogger - INFO - Recognized: ·Ê ‘· Â Ê‰ﬁ·  ﬁ› «·”Ì«—… «·”Ì«—… ›Ì „‘«ﬂ·Â Ê·« ·√ √Ê «·÷⁄›  ›”Ì— «·≈ÿ·«ﬁ ‘ﬂ—« √Â·« Ê”Â·« »«·„Â‰œ” »”«„ «·ÌÊ„ √”ﬁÿ  ›Ì »—ÊÕ «·ÌÊ„
+2025-07-08 23:25:09,084 - SystemLogger - INFO - Recognized: «ﬁÊ·Â« √”»Ê⁄Ì‰ «·ÌÊ„ Ì·ÊÕ ·Â« √ﬂ·«  ”Ì— Õ Ï ﬂ· «·„Õﬁﬁ ÊÌÕ·ﬁ ≈·Ï «„ ÿ 
+2025-07-08 23:25:14,060 - SystemLogger - INFO - Recognized: » ﬁÊ· ·ﬂ «·„”«›… ··„ﬂ«‰ «·›·«‰Ì ﬂ–« ﬂ–«
+2025-07-08 23:25:24,002 - SystemLogger - INFO - Recognized: Ê ﬁÊ· ·Ì Ì⁄‰Ì ﬂ„ Ì” Â·ﬂ » —Ê· «·”Ì«—… ·ﬂ Â–« «·√„— ⁄·Ï » —Ê· ﬂœÂ „„ﬂ‰  ﬂ›Ì‰« «·» —Ê·
+2025-07-08 23:25:27,014 - SystemLogger - INFO - Recognized: Ê«··Â ‘› ’Õ
+2025-07-08 23:25:32,102 - SystemLogger - INFO - Recognized: Â–« ﬂÊ»·—
+2025-07-08 23:25:36,446 - SystemLogger - INFO - Recognized: Â–Â «··Ì » ﬂ·„ „⁄«ﬂ„ ﬂ· ‘Ì¡ √ÃœÂ
+2025-07-08 23:25:39,352 - SystemLogger - INFO - Recognized: ﬁ«· »”
+2025-07-08 23:25:44,495 - SystemLogger - INFO - Recognized: ”Ì«›Ì «·œ›«⁄ √‰   ‰“·Â  ‰ŸÌ› Ê«··Â
+2025-07-08 23:25:52,200 - SystemLogger - INFO - Recognized: “·«·  —”· «·»‰Êœ «· ﬁÿ  ·Â √Ì÷« „« Ì—œ⁄ ·Â ÷—Ê—… ﬂ· Ê«Õœ Ì‰“·
+2025-07-08 23:26:21,798 - SystemLogger - INFO - Recognized: ÂœÏ
+2025-07-08 23:26:23,450 - SystemLogger - INFO - Recognized: «·Ê·«Ì« 
+2025-07-08 23:26:34,270 - SystemLogger - INFO - Recognized: Â–«
+2025-07-08 23:26:44,497 - SystemLogger - INFO - Recognized: Â–Â «·‰Ê⁄Ì…  ” ›Ìœ „‰Â«   ﬂ·„ „⁄ «·‰«” ﬂ·„… ﬂ·„Ì‰Ì Ì« „’—Ì‰ «·„€—»Ì… «··Ì „‰œÌ
+2025-07-08 23:26:52,656 - SystemLogger - INFO - Recognized: «· Ì  »ÕÀ ⁄‰ »—‰«„Ã √ÕÌ«‰« »⁄÷ «· ·›Ì«  «·»⁄÷ »· ÌﬂÊ‰ „ÿÊ—«
+2025-07-08 23:26:55,605 - SystemLogger - INFO - Recognized: ·ﬂ‰  „ﬂ‰ 
+2025-07-08 23:26:59,165 - SystemLogger - INFO - Recognized: ﬂ»·œ Œ·Ì Ìÿ·⁄Ê«
+2025-07-08 23:27:02,801 - SystemLogger - INFO - Recognized: ÌﬁÊ·
+2025-07-09 01:23:57,047 - SystemLogger - INFO - Speech model loaded: C:\Users\bassam\Desktop\DeepMine\models\vosk-model-ar-0.22-linto-1.1.0
+2025-07-09 01:23:57,550 - SystemLogger - INFO - Microphone activated, waiting for commands

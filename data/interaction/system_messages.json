@@ -1,0 +1,26 @@
+{
+  "states": {
+    "listening": {
+      "ar": "أنا أستمع لك {name_ar}...",
+      "en": "Listening {name_en}..."
+    },
+    "processing": {
+      "ar": "جارِ التحليل...",
+      "en": "Processing..."
+    },
+    "ready": {
+      "ar": "جاهز لخدمتك {name_ar}",
+      "en": "Ready to assist you {name_en}"
+    }
+  },
+  "errors": {
+    "no_voice": {
+      "ar": "لم أتمكن من السماع، هل يمكنك التكرار؟",
+      "en": "I didn't catch that, could you repeat?"
+    },
+    "command_not_found": {
+      "ar": "لم أفهم الأمر، هل يمكنك إعادة الصياغة؟",
+      "en": "I didn't understand, can you rephrase?"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "wake_word": {
+        "phrases": [
+            "يا مساعد",
+            "يا ميني",
+            "يا احمد"
+        ],
+        "sensitivity": 0.85,
+        "voice_profile": {
+            "sample_rate": 44100,
+            "frequency_ranges": {
+                "low": [
+                    85,
+                    180
+                ],
+                "mid": [
+                    181,
+                    255
+                ],
+                "high": [
+                    256,
+                    400
+                ]
+            },
+            "last_training_date": "2023-11-15"
+        }
+    }
+}
