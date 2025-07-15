@@ -1,37 +1,26 @@
 from pathlib import Path
 from PyQt5.QtMultimedia import QSoundEffect
 from PyQt5.QtCore import QUrl
-import json
 
 class AudioResponses:
     def __init__(self):
-        self.BASE_DIR = Path(__file__).resolve().parent.parent
-        self.sounds = {
-            'wake': None,
-            'success': None,
-            'error': None
-        }
-        self.load_sounds()
+        self.BASE_DIR = Path(__file__).resolve().parent.parent.parent
+        self.sounds = self._load_sounds()
         
-    def load_sounds(self):
-        """تحميل ملفات الصوت من مجلد assets/sounds"""
+    def _load_sounds(self):
         sounds_dir = self.BASE_DIR / "assets" / "sounds"
+        return {
+            'wake': self._create_sound(sounds_dir / "wake.wav"),
+            'success': self._create_sound(sounds_dir / "success.wav"),
+            'error': self._create_sound(sounds_dir / "error.wav")
+        }
         
-        # تحميل أصوات التنبيه
-        self.sounds['wake'] = self._load_sound(sounds_dir / "wake.wav")
-        self.sounds['success'] = self._load_sound(sounds_dir / "success.wav")
-        self.sounds['error'] = self._load_sound(sounds_dir / "error.wav")
-        
-        
-    def _load_sound(self, path):
-        """تحميل ملف صوتي واحد"""
+    def _create_sound(self, path):
+        sound = QSoundEffect()
         if path.exists():
-            sound = QSoundEffect()
             sound.setSource(QUrl.fromLocalFile(str(path)))
-            return sound
-        return None
+        return sound
         
     def play(self, sound_type):
-        """تشغيل الصوت المطلوب"""
-        if sound_type in self.sounds and self.sounds[sound_type]:
+        if sound_type in self.sounds and self.sounds[sound_type].source().isValid():
             self.sounds[sound_type].play()
